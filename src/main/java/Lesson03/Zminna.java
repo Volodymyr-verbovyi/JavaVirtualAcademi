@@ -1,3 +1,5 @@
+package Lesson03;
+
 public class Zminna {
     public static void main(String[] args) {
         int zminna1 = 7;
